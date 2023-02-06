@@ -1,5 +1,14 @@
 View project in browser -> [click me!](https://denyshutsal.github.io/react-notes-app/)
 
+### Expanded the functionality of the application by adding the following features:
+
+- Sync notes with localStorage
+- Add note summary titles
+- Move modified notes to the top of the list
+- Delete notes
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
